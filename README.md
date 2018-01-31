@@ -8,6 +8,8 @@ from google.cloud import videointelligence<br />
   import wget<br />
   
   
+  
+  
 HOW TO USE <br />
  If importing into a script: -function name is module(twitter_handle, number_tweets)<br />
                              -inputs are twitter name and number of tweets to analyze<br />
