@@ -27,6 +27,6 @@ NOTE: As module makes use of command-line arguments such as 'rm' and 'cat', the 
 
 <b>TESTS - LOCAL HOMEPAGE </b>
 
-Download and save all files in one folder. Run app.py in order to initialize the local host at localhost:5000.
+Download and save all files in one folder. Run app.py in order to initialize the local host at <b>localhost:5000.</b>
 
-Follow directions in the home page to run and view test results. For example, go to localhost:5000/output to see the output of the module and localhost:5000/test1 to see the output of test 1.
+Follow directions in the home page to run and view test results. For example, go to <b>localhost:5000/output </b>to see the output of the module and <b>localhost:5000/test1 </b> to see the output of test 1.
