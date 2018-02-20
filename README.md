@@ -1,7 +1,7 @@
 # EC500
-EC500 Assigments<br />
+<b>EC500 Assigments </b><br />
 
-DEPENDENCIES: <br />
+<b>DEPENDENCIES: </b> <br />
 from google.cloud import vision<br />
   import io, os<br />
   import tweepy<br />
@@ -9,13 +9,12 @@ from google.cloud import vision<br />
   import glob<br />
   
   
-  
-HOW TO USE <br />
+<b>HOW TO USE </b><br />
  If importing into a script: -function name is module(twitter_handle, number_tweets)<br />
                              -inputs are twitter name and number of tweets to analyze<br />
                              -return: python dictionary with frame number as key and list of labels as value<br />
                              
-SPECIFICS: <br />
+<b>SPECIFICS: </b><br />
 -Module will notify users through the console when incorrect/invalid information is provided. These include invalid twitter handle, failed Google authorization credentials, no images in searched tweets. 
 
 
@@ -23,3 +22,11 @@ SPECIFICS: <br />
 
 
 NOTE: As module makes use of command-line arguments such as 'rm' and 'cat', the script may not work on Windows computers.
+
+
+
+<b>TESTS - LOCAL HOMEPAGE </b>
+
+Download and save all files in one folder. Run app.py in order to initialize the local host at localhost:5000.
+
+Follow directions in the home page to run and view test results. For example, go to localhost:5000/output to see the output of the module and localhost:5000/test1 to see the output of test 1.
