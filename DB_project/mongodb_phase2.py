@@ -2,8 +2,6 @@
 from pymongo import MongoClient
 import assignment1
 import sys, os
-from contextlib import contextmanager
-
 
 
 # Initialize Mongodb client
