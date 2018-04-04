@@ -1,4 +1,3 @@
-
 from pymongo import MongoClient
 import assignment1
 import sys, os
