@@ -31,6 +31,9 @@ study : [# tweets, [handle1, handle2, handle2 ...]]} <br />
  handle2 : {image#, [descriptions]} ... }
 
 
+<b>READ DATABASE </b><br />
+In order to read the database and see its contents either run mongo on your terminal or run the attached "read_db" script<br />
+This script will print out the contents of both 'information' and 'data' collections.
 
 
 NOTE: As module makes use of command-line arguments such as 'rm' and 'cat', the script may not work on Windows computers.
