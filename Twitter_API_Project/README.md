@@ -1,5 +1,5 @@
 # EC500
-<b>EC500 Assigments </b><br />
+<b>EC500 Assignments </b><br />
 
 <b>DEPENDENCIES: </b> <br />
 from google.cloud import vision<br />
